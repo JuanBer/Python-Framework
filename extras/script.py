@@ -9,6 +9,4 @@ print(sys.executable)
 
 req = requests.get('https://www.google.com')
 
-
-
 print(req)
